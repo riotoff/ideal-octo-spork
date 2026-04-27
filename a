@@ -1,4 +1,3 @@
-map("Pizza Party", true, "Survival")
 place(4.722, 1.037, 0.279, "Farm", 0)
 place(-3.047, 1.037, 10.540, "Ace Pilot", 0)
 place(8.014, 1.037, -0.231, "Farm", 0)
