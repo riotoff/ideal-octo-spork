@@ -1,5 +1,3 @@
-// im not dumb so i wont obfuscate the script (it is not even mine but anyways)
-
 local Players = game:GetService("Players")
 local TweenService = game:GetService("TweenService")
 local HttpService = game:GetService("HttpService")
